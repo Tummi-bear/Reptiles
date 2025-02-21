@@ -42,5 +42,12 @@
             <p style="font-size:15px"> Адрес: город Москва,дубненский проспект, 15.</p>
             <p>Тел.:586-437</p>
         </footer>
+        <form> 
+	     <p>Заполните поля, чтобы уточнить инфармацию по рептилиям</p>
+	     <p><label>Введите имя <input type="text"></label></p>
+	     <p><label>Введите номер телефона <input type="tel"> </label></p>
+	     <p><label><input type="checkbox"> почта</label></p>
+         <input type="submit" value="Отправить"> 
+        </form>
     </body>
 </html>
